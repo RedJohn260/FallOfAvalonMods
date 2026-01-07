@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LocalGit\\FallOfAvalonMods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\pluginconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\pluginconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\pluginconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\pluginconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\weaponchangepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\weaponchangepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\crosshairrangepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\crosshairrangepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\crosshaircolorpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\crosshaircolorpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|d:\\localgit\\fallofavalonmods\\defaultbowcrosshair\\bowdatapatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2270AD9A-9C29-44D6-ACF6-E65D05C90B42}|DefaultBowCrosshair\\DefaultBowCrosshair.csproj|solutionrelative:defaultbowcrosshair\\bowdatapatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponChangePatch.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\WeaponChangePatch.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\WeaponChangePatch.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\WeaponChangePatch.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\WeaponChangePatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PluginConsts.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\PluginConsts.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\PluginConsts.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\PluginConsts.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\PluginConsts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:17.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PluginConfig.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\PluginConfig.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\PluginConfig.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\PluginConfig.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\PluginConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:17.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\Plugin.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\Plugin.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\Plugin.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:16.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrosshairRangePatch.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\CrosshairRangePatch.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\CrosshairRangePatch.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\CrosshairRangePatch.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\CrosshairRangePatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrosshairColorPatch.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\CrosshairColorPatch.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\CrosshairColorPatch.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\CrosshairColorPatch.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\CrosshairColorPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BowDataPatch.cs",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\BowDataPatch.cs",
+              "RelativeDocumentMoniker": "DefaultBowCrosshair\\BowDataPatch.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\DefaultBowCrosshair\\BowDataPatch.cs",
+              "RelativeToolTip": "DefaultBowCrosshair\\BowDataPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:34:12.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

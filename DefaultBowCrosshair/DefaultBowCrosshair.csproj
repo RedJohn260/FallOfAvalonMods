@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../Mod.props"/>
+  <PropertyGroup>
+    <AssemblyName>DefaultBowCrosshair</AssemblyName>
+    <Product>DefaultBowCrosshair</Product>
+    <Version>1.0.0</Version>
+    <RootNamespace>DefaultBowCrosshair</RootNamespace>
+  </PropertyGroup>
+</Project>
