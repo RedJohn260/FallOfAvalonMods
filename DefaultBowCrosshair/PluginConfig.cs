@@ -34,12 +34,22 @@ public class PluginConfig
             EnableCustomCrosshairColors = config.Bind("1. General", "Enable Custom Colors", true, "Allows the crosshair to change color based on target type.");
 
             // Range
-            MaxDetectionRange = config.Bind("2. Range", "Max Detection Distance", 70f, "The maximum distance the raycast will detect targets (standard is 50).");
-            MinDistanceToShowText = config.Bind("2. Range", "Minimum Text Distance", 7f, "Distance text hides if the target is closer than this.");
+            MaxDetectionRange = config.Bind("2. Range", "Max Detection Distance", 100f,
+                new ConfigDescription("The maximum distance the raycast will detect targets (standard is 50).",
+                new AcceptableValueRange<float>(1.0f, 500f)));
+
+            MinDistanceToShowText = config.Bind("2. Range", "Minimum Text Distance", 5f,
+                new ConfigDescription("Distance text hides if the target is closer than this. Do not go below 1.",
+                new AcceptableValueRange<float>(1.0f, 499f)));
 
             // UI
-            TextFontSize = config.Bind("3. UI", "Font Size", 12f, "The size of the distance text.");
-            TextVerticalOffset = config.Bind("3. UI", "Vertical Offset", 65f, "How high above the crosshair the text appears.");
+            TextFontSize = config.Bind("3. UI", "Font Size", 12f,
+                new ConfigDescription("The size of the distance text.",
+                new AcceptableValueRange<float>(1.0f, 120f)));
+
+            TextVerticalOffset = config.Bind("3. UI", "Vertical Offset", 65f,
+                new ConfigDescription("How high above the crosshair the text appears.",
+                new AcceptableValueRange<float>(-200f, 200f)));
 
             // Colors
             HostileColor = config.Bind("4. Colors", "Hostile Target Color", Color.red, "Color when aiming at enemies.");

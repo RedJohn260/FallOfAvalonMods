@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../Mod.props"/>
+  <PropertyGroup>
+    <AssemblyName>FlatArrows</AssemblyName>
+    <Product>FlatArrows</Product>
+    <Version>1.0.0</Version>
+    <RootNamespace>FlatArrows</RootNamespace>
+  </PropertyGroup>
+</Project>
