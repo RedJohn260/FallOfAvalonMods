@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\LocalGit\\FallOfAvalonMods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68B463EC-7B16-4B82-A3FE-2BB513988581}|FlatArrows\\FlatArrows.csproj|d:\\localgit\\fallofavalonmods\\flatarrows\\pluginconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68B463EC-7B16-4B82-A3FE-2BB513988581}|FlatArrows\\FlatArrows.csproj|solutionrelative:flatarrows\\pluginconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68B463EC-7B16-4B82-A3FE-2BB513988581}|FlatArrows\\FlatArrows.csproj|d:\\localgit\\fallofavalonmods\\flatarrows\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68B463EC-7B16-4B82-A3FE-2BB513988581}|FlatArrows\\FlatArrows.csproj|solutionrelative:flatarrows\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68B463EC-7B16-4B82-A3FE-2BB513988581}|FlatArrows\\FlatArrows.csproj|d:\\localgit\\fallofavalonmods\\flatarrows\\bowpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68B463EC-7B16-4B82-A3FE-2BB513988581}|FlatArrows\\FlatArrows.csproj|solutionrelative:flatarrows\\bowpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FA3D0FD-7F3A-48A4-B860-554856823222}|CalmDeaths\\CalmDeaths.csproj|d:\\localgit\\fallofavalonmods\\calmdeaths\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3D0FD-7F3A-48A4-B860-554856823222}|CalmDeaths\\CalmDeaths.csproj|solutionrelative:calmdeaths\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BowPatch.cs",
-              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\FlatArrows\\BowPatch.cs",
-              "RelativeDocumentMoniker": "FlatArrows\\BowPatch.cs",
-              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\FlatArrows\\BowPatch.cs",
-              "RelativeToolTip": "FlatArrows\\BowPatch.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwD0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T00:15:51.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PluginConfig.cs",
-              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\FlatArrows\\PluginConfig.cs",
-              "RelativeDocumentMoniker": "FlatArrows\\PluginConfig.cs",
-              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\FlatArrows\\PluginConfig.cs",
-              "RelativeToolTip": "FlatArrows\\PluginConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T00:13:40.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\FlatArrows\\Plugin.cs",
-              "RelativeDocumentMoniker": "FlatArrows\\Plugin.cs",
-              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\FlatArrows\\Plugin.cs",
-              "RelativeToolTip": "FlatArrows\\Plugin.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\LocalGit\\FallOfAvalonMods\\CalmDeaths\\Plugin.cs",
+              "RelativeDocumentMoniker": "CalmDeaths\\Plugin.cs",
+              "ToolTip": "D:\\LocalGit\\FallOfAvalonMods\\CalmDeaths\\Plugin.cs",
+              "RelativeToolTip": "CalmDeaths\\Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T00:13:30.295Z",
+              "WhenOpened": "2026-01-15T09:07:48.331Z",
               "EditorCaption": ""
             }
           ]

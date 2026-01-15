@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../Mod.props"/>
+  <PropertyGroup>
+    <AssemblyName>CalmDeaths</AssemblyName>
+    <Product>CalmDeaths</Product>
+    <Version>1.0.0</Version>
+    <RootNamespace>CalmDeaths</RootNamespace>
+  </PropertyGroup>
+</Project>
